@@ -50,7 +50,7 @@
 # def polinomium(n):
 #     my_list = []
 #     for i in range(1, n + 2):
-#         my_list.append(str(random.randrange(0, 3)))
+#         my_list.append(str(random.randrange(0, 100)))
     
 #     polinom = ''
 #     if my_list[n] == '0':
